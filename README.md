@@ -1,4 +1,4 @@
-### Домашнее задачние 
+### Домашнее задание
 - Задача №1: [phrase.py](https://github.com/NMKD/python_basic_home_task/blob/master/phrase.py)
 - Задача №2: [year.py](https://github.com/NMKD/python_basic_home_task/blob/master/year.py)
 - Задача №3: [zodiac.py](https://github.com/NMKD/python_basic_home_task/blob/master/zodiac.py)
